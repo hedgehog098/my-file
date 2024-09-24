@@ -1,13 +1,13 @@
 # Kagami
-A distributed mirroring system and management tools. \
-The project name "Kagami" is derived from the Japanese word for "mirror". \
+A distributed mirroring system and management tools. 
+The project name "Kagami" is derived from the Japanese word for "mirror". 
 More infomation can be found on our website: [Project-Kagami](https://project-kagami.dev)
 
 Powerd by *ProjectSoftoid*
 
 ## Group Info
-Group Number: 3 \
-Group Name: ProjectSoftoid \
+Group Number: 3 
+Group Name: ProjectSoftoid 
 
 ## Team Profile
 ### Team Member:
@@ -24,7 +24,7 @@ QinJunshuo_1220022811 (Jason Chun)
 ## Project Description
 ### Problem Diagnosis
 #### High Level Problem
-Under MUST's network, developers and researchers may experience slow access to certain resources, such as software packages (Linux packages), scientific tools (HPC kits, Conda packages, etc.), or even model files (e.g., LLaMA, Qwen from Hugging Face). This is largely due to network congestion caused by the high volume of users on campus. By establishing a local mirror within the campus for researchers to access, these issues can be significantly alleviated. This solution would also reduce the strain on the campus network's external bandwidth. \
+Under MUST's network, developers and researchers may experience slow access to certain resources, such as software packages (Linux packages), scientific tools (HPC kits, Conda packages, etc.), or even model files (e.g., LLaMA, Qwen from Hugging Face). This is largely due to network congestion caused by the high volume of users on campus. By establishing a local mirror within the campus for researchers to access, these issues can be significantly alleviated. This solution would also reduce the strain on the campus network's external bandwidth. 
 Moreover, MUST's SuperComputing Station is in development, hence a mirror is highly required.
 
 #### Specific Issues
