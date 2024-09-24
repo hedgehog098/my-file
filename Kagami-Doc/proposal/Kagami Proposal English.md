@@ -12,9 +12,9 @@ Group Name: ProjectSoftoid \
 ## Team Profile
 ### Team Member:
 1. TaoXilin_1220032801, proficient in git, familiar with python, c, cpp, etc., master front-end construction skills, and master knowledge of algorithms and data structures.
-2. name, qualifications and strengths
+2. 2.ZhaoYunhao_1220025803, proficient in git, familiar with c, python, cpp, master some front-end construction skills(html,css,javascript,react) and master knowledge of data structure, computer organization.
 3. name, qualifications and strengths
-4. ChenWen_1220022740, familiar with python, c, cpp, C sharp, etc. ,familiar backend ,and master knowledge of algorithms and  data structures.
+4. ChenWen_1220022740, familiar with python, c, cpp, C sharp, etc. ,familiar backend construction, master knowledge of algorithms and  data structures.
 ### Team Leader:
 QinJunshuo_1220022811 (Jason Chun)
 - Rust, Python backend developer
